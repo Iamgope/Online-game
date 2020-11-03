@@ -45,6 +45,8 @@ def redraw(screen, player):
     pygame.display.update()
 
 
+
+
 def main():
     flag = True
     p = player(50, 50, 100, 150, (0, 200, 0))
